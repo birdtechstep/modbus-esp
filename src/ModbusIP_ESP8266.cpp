@@ -5,7 +5,7 @@
 */
 #if defined(ESP32) || defined(ESP8266)
 
-#include "ModbusIP_ESP8266.h"
+#include "ModbusIP_ESP.h"
 
 ModbusIP::ModbusIP() {
 	//_trans.reserve(MODBUSIP_MAX_TRANSACIONS);
