@@ -11,7 +11,7 @@
 #else
  #include <WiFi.h>
 #endif
-#include <ModbusIP_ESP8266.h>
+#include <ModbusIP_ESP.h>
 
 
 const int LED_COIL = 1;               // Modbus Coil Offset
