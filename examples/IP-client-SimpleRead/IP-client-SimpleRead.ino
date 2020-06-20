@@ -11,7 +11,7 @@
 #else
  #include <WiFi.h>
 #endif
-#include <ModbusIP_ESP8266.h>
+#include <ModbusIP_ESP.h>
 
 const int REG = 528;               // Modbus Hreg Offset
 IPAddress remote(192, 168, 30, 13);  // Address of Modbus Slave device
