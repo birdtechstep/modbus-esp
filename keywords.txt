@@ -1,4 +1,4 @@
-# Syntax Coloring Map For ModbusIP-ESP8266
+# Syntax Coloring Map For ModbusIP-ESP
 
 # Datatypes (KEYWORD1)
 ModbusRTU	KEYWORD1
