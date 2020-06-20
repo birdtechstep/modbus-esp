@@ -11,7 +11,7 @@
 #else
  #include <WiFi.h>
 #endif
-#include <ModbusIP_ESP8266.h>
+#include <ModbusIP_ESP.h>
 
 const int REG = 100;                    // Modbus Coils Offset
 const int COUNT = 5;                    // Count of Coils
