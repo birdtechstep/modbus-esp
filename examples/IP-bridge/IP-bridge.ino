@@ -6,7 +6,7 @@
   https://github.com/emelianov/modbus-esp8266
 */
 
-#include <ModbusIP_ESP8266.h>
+#include <ModbusIP_ESP.h>
 #include <ModbusRTU.h>
 
 #define TO_REG 10
