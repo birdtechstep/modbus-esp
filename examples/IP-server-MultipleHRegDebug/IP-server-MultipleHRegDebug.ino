@@ -15,7 +15,7 @@
 #else	//ESP32
  #include <WiFi.h>
 #endif
-#include <ModbusIP_ESP8266.h>
+#include <ModbusIP_ESP.h>
 
 #define LEN 10
 
