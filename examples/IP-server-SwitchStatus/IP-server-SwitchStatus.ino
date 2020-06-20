@@ -15,7 +15,7 @@
 #else //ESP32
  #include <WiFi.h>
 #endif
-#include <ModbusIP_ESP8266.h>
+#include <ModbusIP_ESP.h>
 
 //Modbus Registers Offsets
 const int SWITCH_ISTS = 100;
