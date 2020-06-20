@@ -1,5 +1,5 @@
 /*
-    ModbusIP_ESP8266.cpp - ModbusIP Library Implementation
+    ModbusIP_ESP.cpp - ModbusIP Library Implementation
     Copyright (C) 2014 Andr� Sarmento Barbosa
                   2017-2019 Alexander Emelianov (a.m.emelianov@gmail.com)
 */
